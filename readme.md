@@ -12,5 +12,4 @@ Periodo: Septiembre - Diciembre 2026
 |--- | ------ | ----------- | ----------- | ------- |
 | 1. | Metodología de Evaluación de la Materia | Transcribir en libreta y comprender la metodología y
 fechas de evaluación de la asignatura| 5 | 🟢 Concluida |
-
-se creo el repositorio de la practicas 
+|2.|Conexiones Remotas para Bases de Datos SQL| Crear y administrar usuarios y privilegios para conexiones desde internet o redes locales|?? |🟡 En progreso|
